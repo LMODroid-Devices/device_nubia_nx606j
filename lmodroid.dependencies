@@ -1,0 +1,11 @@
+[
+  {
+    "repository": "LMODroid-Devices/device_nubia_sdm845-common",
+    "target_path": "device/nubia/sdm845-common"
+  },
+  {
+    "remote": "lineage",
+    "repository": "android_hardware_samsung_nfc",
+    "target_path": "hardware/samsung/nfc"
+  }
+]
